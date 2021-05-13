@@ -21,7 +21,7 @@
     "postpublish": "node .scripts/npm-postpublish.js"
   },
   "dependencies": {
-    "@reach/rect": "^0.2.1",
+    "@reach/rect": "^0.15.0",
     "@storybook/addons": "^6.1.18",
     "@storybook/core-events": "^6.1.18",
     "@storybook/theming": "^6.1.18",
